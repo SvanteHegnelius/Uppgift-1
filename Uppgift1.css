@@ -1,0 +1,31 @@
+body{
+    background-color:bisque;
+    color: darkolivegreen;
+    
+}
+
+h1{
+    font-size: 22px;
+    font-family: Arial;
+}
+
+.program{
+    background-color: rgb(152, 175, 113);
+    color: black;
+    text-align: center;
+}
+
+ .program2{
+     text-align: right;  
+ }   
+
+ a{text-decoration:none}
+
+
+.program3{
+    border-style: solid;
+
+
+
+
+     
